@@ -1,0 +1,11 @@
+name: "BedWars1058-ArenaSetup"
+version: "3.0"
+main: "me.actuallysoheil.arenasetup.ArenaSetupPlugin"
+api-version: "1.13"
+author: "actuallySoheil"
+
+softdepend: [ BedWars1058 ]
+
+commands:
+  bwsetup:
+    permission: bwsetup.admin
